@@ -3,7 +3,7 @@ alt ="Banner icon of author's name, Michael Amick"
 width="100%" height="222">
 
 ## :us: About Me
-Experienced computer scientist and information technology professional with experience as a cyber officer and civilian in the U.S. Air Force. Extensively trained problem solver, leader, and instructor with experience in networking, operations, security, testing, and software development. I'm passionate about automation, DevOps, empowering teams, and elegant solutions.
+Experienced computer scientist and information technology professional with experience as a cyber officer and civilian in the U.S. Air Force. Extensively trained problem solver, leader, and instructor with experience in networking, operations, security, testing, and software development. I'm passionate about automation, DevOps, empowering teams, and elegant solutions. I love focusing on user outcomes and am working on getting more involved in the open source community and leveraging my technical skills to support non-profit organizations.
 
 ## :star: Languages, Tools, & Skills
 
