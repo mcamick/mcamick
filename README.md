@@ -2,8 +2,12 @@
 alt ="Banner icon of author's name, Michael Amick"
 width="100%" height="222">
 
+I'm currently working on
+I'm currently learning
+In my free time (outside of coding) I'm into
+
 ## :us: About Me
-Experienced computer scientist and information technology professional with experience as a cyber officer and civilian in the U.S. Air Force. Extensively trained problem solver, leader, and instructor with experience in networking, operations, security, testing, and software development. I'm passionate about automation, DevOps, empowering teams, and elegant solutions. I love focusing on user outcomes and am working on getting more involved in the open source community and leveraging my technical skills to support non-profit organizations.
+I'm a computer scientist, platform engineer, cyber security professional, and lifelong learner. I love focusing on user outcomes and am working on getting more involved in the open source community and leveraging my technical skills to support non-profit organizations.
 
 ## :star: Languages, Tools, & Skills
 
@@ -12,4 +16,6 @@ Experienced computer scientist and information technology professional with expe
 [![exercism logo](https://img.shields.io/badge/-Exercism-009CAB?logo=exercism&logoColor=white&style=for-the-badge)](https://exercism.org/)
 [![codecademy logo](https://img.shields.io/badge/-codecademy-1F4056?logo=codecademy&logoColor=white&style=for-the-badge)](https://codecademy.com)
 
-<!--- [![](https://img.shields.io/badge/-)]() - base for creating badges
+<!--- [![](https://img.shields.io/badge/-)]() - base for creating badges --->
+
+## Favorite Books & Reading
