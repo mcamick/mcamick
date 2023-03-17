@@ -7,4 +7,4 @@ Experienced computer scientist and information technology professional with expe
 
 
 ## Favorite Learning Tools
-![image]({https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white})
+![image]({https://image.sheilds.io/badge/-Exercism-009CAB?logo=exercism@logoColor=white&style=for-the-badge})
