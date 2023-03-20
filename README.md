@@ -25,12 +25,16 @@ I'm a computer scientist, platform engineer, cyber security professional, and li
 ![Kubernetes logo](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=for-the-badge)
 ![Linux logo](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=for-the-badge)
 ![MacOS logo](https://img.shields.io/badge/-macOS-000000?logo=macOS&logoColor=white&style=for-the-badge)
+![VS Code logo](https://img.shields.io/badge/-VSCode-007ACC?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
 
 ## :books: Favorite Learning Sites
 [![freecodecamp logo](https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freeCodeCamp&logoColor=white&style=for-the-badge)](https://www.freecodecamp.org)
 [![exercism logo](https://img.shields.io/badge/-Exercism-009CAB?logo=exercism&logoColor=white&style=for-the-badge)](https://exercism.org/)
 [![codecademy logo](https://img.shields.io/badge/-codecademy-1F4056?logo=codecademy&logoColor=white&style=for-the-badge)](https://codecademy.com)
-
-<!--- [![](https://img.shields.io/badge/-)]() - base for creating badges --->
+[![Geeks 4 Geeks logo](https://img.shields.io/badge/-Geeks4Geeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/)
+[![Stack Overflow logo](https://img.shields.io/badge/-StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/)
+[![Hacker Rank logo](https://img.shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/)
+[![EdX logo](https://img.shields.io/badge/-edx-02262B?logo=edx&logoColor=white&style=for-the-badge)](https://www.edx.org/)
+[![Linux Foundation](https://img.shields.io/badge/-linuxfoundation-003366?logo=linuxfoundation&logoColor=white&style=for-the-badge)](https://www.linuxfoundation.org/)
 
 ## Favorite Books & Reading
