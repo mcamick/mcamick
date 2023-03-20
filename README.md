@@ -2,9 +2,12 @@
 alt ="Banner icon of author's name, Michael Amick"
 width="100%" height="222">
 
-I'm currently working on
-I'm currently learning
-In my free time (outside of coding) I'm into
+:business_suit_levitating: I'm currently working on 
+supporting [Lasagna Love](https://lasagnalove.org/) in a refactor of their volunteer/donation capability  
+
+:brain: I'm currently learning new deployment practices with [Zarf](https://zarf.dev/), leveraging Platform One's [Big Bang](https://p1.dso.mil/products/big-bang), and picking up GO as my new language of choice  
+
+:clock1: In my free time (outside of coding) I'm into hiking, rock climbing, cooking, gaming, and hanging out with my family  
 
 ## :us: About Me
 I'm a computer scientist, platform engineer, cyber security professional, and lifelong learner. I love focusing on user outcomes and am working on getting more involved in the open source community and leveraging my technical skills to support non-profit organizations.
