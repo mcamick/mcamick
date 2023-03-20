@@ -36,5 +36,3 @@ I'm a computer scientist, platform engineer, cyber security professional, and li
 [![Hacker Rank logo](https://img.shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/)
 [![EdX logo](https://img.shields.io/badge/-edx-02262B?logo=edx&logoColor=white&style=for-the-badge)](https://www.edx.org/)
 [![Linux Foundation](https://img.shields.io/badge/-linuxfoundation-003366?logo=linuxfoundation&logoColor=white&style=for-the-badge)](https://www.linuxfoundation.org/)
-
-## Favorite Books & Reading
